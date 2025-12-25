@@ -93,7 +93,7 @@ sections:
         <span style="white-space: nowrap;">
         <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/1568882ba1a50316e87852542523739c-Abstract-Datasets_and_Benchmarks_Track.html">CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark</a>
         </span><br>
-        David Romero, Chenyang Lyu, Haryo Akbarianto Wibowo, Teresa Lynn, Injy Hamed, Aditya Nanda Kishore, Aishik Mandal, Alina Dragonetti, Artem Abzaliev, Atnafu Lambebo Tonja, Bontu Fufa Balcha, Chenxi Whitehouse, Christian Salamea, Dan John Velasco, David Ifeoluwa Adelani, Maria Camila Buitrago Cabrera, Gisela Vallejo, <b>Sukannya Purkayastha</b>, …, Thamar Solorio<br>
+        David Romero, Chenyang Lyu, Haryo Akbarianto Wibowo, Teresa Lynn, Injy Hamed, Aditya Nanda Kishore, Aishik Mandal, Alina Dragonetti,… , <b>Sukannya Purkayastha</b>, …, Thamar Solorio<br>
         <em>38th Conference on Neural Information Processing Systems (NeurIPS), Datasets & Benchmarks Track, 2024</em>
 
         <span style="white-space: nowrap;"><a href="https://aclanthology.org/2023.emnlp-main.894/">Exploring Jiu-Jitsu Argumentation for Writing Peer Review Rebuttals</a>
