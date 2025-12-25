@@ -40,7 +40,8 @@ sections:
       title: News
       text: |
         <span style="white-space: nowrap;"> • December 2025: I presented two of my papers at <a href="https://sciprodllm.github.io/2025/index.html">SciProd-LLM Workshop </a> at AACL IJCNLP, 2025</span><br>
-        • <span style="white-space: nowrap;">December 2025:</span> Our paper on Riemannian Gradient Averaging accepted at OPT workshop at NeurIPS 2025.<br>
+        <span style="white-space: nowrap;">• December 2025: Our paper on Riemannian Gradient Averaging accepted at OPT workshop at NeurIPS 2025.</span><br>
+        • <span style="white-space: nowrap;">October 2025:</span> I started my internship at NEC Labs, Europe.<br>
         <span style="white-space: nowrap;"> • July 2025: Attended ACL 2025 at Vienna!</span><br>
         <span style="white-space: nowrap;">• July 2025: Our benchmark paper "CaMMT" accepted at Findings of EMNLP 2025</span> <br>
         <span style="white-space: nowrap;">• May 2025: Our Paper "LazyReview" accepted at ACL 2025</span><br>
@@ -125,7 +126,7 @@ sections:
 
         <span style="white-space: nowrap;">[Medical Entity Linking using Triplet Network](/publications/conference-paper/mondal-etal-2019-medical/)</span><br>Ishani Mondal, <b>Sukannya Purkayastha</b>, Sudeshna Sarkar, Pawan Goyal, Jitesh Pillai, Amitava Bhattacharyya, Mahanandeeshwar Gattu<br><em>2nd Clinical Natural Language Processing Workshop, 2019</em>
 
-        <span style="white-space: nowrap;">[Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder](https://doi.org/10.1109/BIBE.2019.00104)</span><br><b>Sukannya Purkayastha</b>, Ishani Mondal, Sudeshna Sarkar, Pawan Goyal, Jitesh K. Pillai<br><em> IEEE 19th International Conference on Bioinformatics and Bioengineering (BIBE), 2019</em><br><br>
+        <span style="white-space: nowrap;">[Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder](https://doi.org/10.1109/BIBE.2019.00104)</span><br><b>Sukannya Purkayastha</b>, Ishani Mondal, Sudeshna Sarkar, Pawan Goyal, Jitesh K. Pillai<br><em> IEEE 19th International Conference on Bioinformatics and Bioengineering (BIBE), 2019</em>
         <hr style="border: none; border-top: 1px solid #ddd; margin: 1rem 0;">
     design:
       columns: '2'

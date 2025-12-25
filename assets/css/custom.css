@@ -1,7 +1,7 @@
-/* Collapse extra top/bottom padding for the section */
+/* Collapse extra top/bottom padding for the bio section */
 #section-resume-biography-3,
 #section-resume-biography-3 .resume-biography {
-    padding-top: 1rem !important;   
+    padding-top: 1rem !important;
     padding-bottom: 1rem !important;
     margin-top: 0 !important;
     margin-bottom: 0 !important;
@@ -47,57 +47,56 @@
     display: none !important;
 }
 
-/* Optionally hide the avatar/icon next to the heading */
+/* Hide the avatar/icon next to the heading */
 #section-resume-biography-3 .flex-shrink-0.w-12.h-12 {
     display: none !important;
 }
 
-#section-resume-biography-3 .avatar {
-    width: 250px !important;
-    height: 250px !important;
-    object-fit: cover;
-}
-
-/* Make the avatar wrapper same size */
+/* Avatar styling */
 #section-resume-biography-3 .avatar-wrapper {
     width: 250px !important;
     height: 250px !important;
+}
+
+#section-resume-biography-3 .avatar {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover;
 }
 
 /* Move avatar lower and center with bio */
 #section-resume-biography-3 .md\:col-span-4 {
     display: flex;
     flex-direction: column;
-    justify-content: center;  /* centers content vertically */
+    justify-content: center;
     align-items: center;
-    padding-top: 2rem;        /* adjust this to push it further down */
+    padding-top: 2rem; /* adjust to push avatar down */
 }
 
-/* Optional: reduce spacing between avatar and bio text */
+/* Reduce spacing between avatar, bio text and icons */
 #section-resume-biography-3 .space-y-6,
 #section-resume-biography-3 .space-y-8 {
-    gap: 1rem !important;  /* reduce vertical gap */
-}
-#section-resume-biography-3 .flex.flex-wrap.justify-center.gap-4 {
-    gap: 0.5rem !important;  /* reduce space between icons */
+    gap: 1rem !important;
 }
 
-/* Optional: make individual icons smaller */
+#section-resume-biography-3 .flex.flex-wrap.justify-center.gap-4 {
+    gap: 0.5rem !important;
+}
+
+/* Resize icons */
 #section-resume-biography-3 .flex.flex-wrap.justify-center.gap-4 a {
-    width: 2.5rem !important;   /* default 3rem (w-12) */
-    height: 2.5rem !important;  /* default 3rem (h-12) */
-    font-size: 0.9rem;          /* smaller icon inside */
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+    font-size: 0.9rem;
+}
+
+/* Responsive adjustments */
 @media (max-width: 640px) {
     #section-resume-biography-3 .avatar-wrapper {
         width: 150px !important;
         height: 150px !important;
         margin-bottom: 1rem !important;
     }
-    #section-resume-biography-3 .avatar {
-        width: 100% !important;
-        height: 100% !important;
-    }
-
     #section-resume-biography-3 .bio-name {
         font-size: 1.5rem !important;
         font-weight: 700 !important;
@@ -109,34 +108,66 @@
         text-align: center !important;
         margin-bottom: 1rem !important;
     }
-
     #section-resume-biography-3 .flex.flex-wrap.justify-center.gap-4 {
         gap: 0.25rem !important;
         justify-content: center !important;
     }
-
     #section-resume-biography-3 .bio-text p {
         margin-top: 0.5rem !important;
         margin-bottom: 1rem !important;
         font-size: 0.95rem !important;
         line-height: 1.4 !important;
     }
-
     #section-resume-biography-3 hr {
         margin: 0.5rem 0 !important;
     }
-
-    #section-resume-biography-3 .resume-biography {
-        padding-top: 1rem !important;
-        padding-bottom: 1rem !important;
-    }
 }
 
+/* Larger screens avatar */
 @media (min-width: 641px) {
     #section-resume-biography-3 .avatar-wrapper {
         width: 320px !important;
         height: 320px !important;
     }
 }
-    
+
+/* Hide "Build your site → / Clone this template →" */
+[data-hbx="poweredby_cta"] {
+    display: none !important;
+}
+.powered-by {
+    display: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 0 !important;
+}
+
+footer {
+    padding: 0 !important;
+    margin: 0 !important;
+    min-height: 0 !important;
+}
+
+html, body {
+    font-size: 12px; /* default is usually 16px; reduce to 15px or 14px if you want smaller text */
+    line-height: 1.5; /* optional: adjust line height for readability */
+}
+
+/* Optional: adjust headings proportionally */
+h1 { font-size: 2rem; }
+h2 { font-size: 1.75rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+h5 { font-size: 1rem; }
+h6 { font-size: 0.875rem; }
+
+#section-resume-biography-3 .avatar-wrapper {
+    width: 200px !important;   /* desktop width */
+    height: 200px !important;  /* desktop height */
+}
+
+#section-resume-biography-3 .avatar {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover;
 }
