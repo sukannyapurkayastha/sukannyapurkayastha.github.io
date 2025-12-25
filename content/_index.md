@@ -119,7 +119,7 @@ sections:
         <span style="white-space: nowrap;">
         <a href="https://arxiv.org/abs/2012.02387">A Variant of Gradient Descent Algorithm Based on Gradient Averaging</a>
         </span><br>
-        Saugata Purkayastha, Sukannya Purkayastha<br>
+        Saugata Purkayastha, <b>Sukannya Purkayastha</b><br>
         <em>12th Annual Workshop on Optimization for Machine Learning (OPT) at NeurIPS 2020</em>
 
 
