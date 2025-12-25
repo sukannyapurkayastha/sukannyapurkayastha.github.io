@@ -40,10 +40,10 @@ sections:
       title: News
       text: |
         <span style="white-space: nowrap;"> • December 2025: I presented two of my papers at <a href="https://sciprodllm.github.io/2025/index.html">SciProd-LLM Workshop </a> at AACL IJCNLP, 2025</span><br><br>
-        • <span style="white-space: nowrap;">December 2025:</span> Paper on RGrad-Avg accepted at OPT workshop at NeurIPS 2025.<br><br>
+        • <span style="white-space: nowrap;">December 2025:</span> Paper on Riemannian Gradient Average accepted at OPT workshop at NeurIPS 2025.<br><br>
         <span style="white-space: nowrap;"> • July 2025: Attended ACL 2025 at Vienna!</span><br><br>
-        • <span style="white-space: nowrap;">July 2025:</span> CaMMT benchmark paper accepted at Findings of EMNLP 2025<br><br>
-        • <span style="white-space: nowrap;">May 2025:</span> LazyReview dataset paper accepted at ACL 2025<br><br>
+        • <span style="white-space: nowrap;">• July 2025: Our benchmark paper "CaMMT" accepted at Findings of EMNLP 2025</span> <br><br>
+        <span style="white-space: nowrap;"• May 2025: Our Paper "LazyReview" accepted at ACL 2025</span><br><br>
         <hr style="border: none; border-top: 1px solid #ddd; margin: 1rem 0;">
     design:
       columns: '2'
