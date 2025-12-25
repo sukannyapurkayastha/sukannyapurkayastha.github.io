@@ -74,7 +74,7 @@ sections:
         <a href="https://aclanthology.org/2025.acl-long.165/">LazyReview: A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews</a>
         </span><br>
         <b>Sukannya Purkayastha</b>, Zhuang Li, Anne Lauscher, Lizhen Qu, Iryna Gurevych<br>
-        <em>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025</em>
+        <em>The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025</em>
 
         <span style="white-space: nowrap;"><a href="https://aclanthology.org/2025.findings-emnlp.1220/">CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation</a></span><br>Emilio Villa-Cueva, Sholpan Bolatzhanova, Diana Turmakhan, …, <b>Sukannya Purkayastha</b>, …, Thamar Solorio<br><em>Findings of the Association for Computational Linguistics: EMNLP 2025</em>
 
@@ -99,9 +99,9 @@ sections:
         <span style="white-space: nowrap;"><a href="https://aclanthology.org/2023.emnlp-main.894/">Exploring Jiu-Jitsu Argumentation for Writing Peer Review Rebuttals</a>
         </span><br>
         <b>Sukannya Purkayastha</b>, Anne Lauscher, Iryna Gurevych<br>
-        <em>Proceedings of the Conference on Empirical Methods in Natural Language Processing, 2023</em>
+        <em>Empirical Methods in Natural Language Processing (EMNLP), 2023</em>
 
-        <span style="white-space: nowrap;">[Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning](https://aclanthology.org/2023.emnlp-demo.13/)</span><br>Clifton Poth, Hannah Sterz, Indraneil Paul, <b>Sukannya Purkayastha</b>, Leon Engländer, Timo Imhof, Ivan Vulić, Sebastian Ruder, Iryna Gurevych, Jonas Pfeiffer<br><em>Proceedings of the Conference on Empirical Methods in Natural Language Processing: System Demonstrations, 2023</em>
+        <span style="white-space: nowrap;">[Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning](https://aclanthology.org/2023.emnlp-demo.13/)</span><br>Clifton Poth, Hannah Sterz, Indraneil Paul, <b>Sukannya Purkayastha</b>, Leon Engländer, Timo Imhof, Ivan Vulić, Sebastian Ruder, Iryna Gurevych, Jonas Pfeiffer<br><em>Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations, 2023</em>
 
         <span style="white-space: nowrap;">[Romanization-based Large-scale Adaptation of Multilingual Language Models](https://aclanthology.org/2023.findings-emnlp.538/)</span><br><b>Sukannya Purkayastha</b>, Sebastian Ruder, Jonas Pfeiffer, Iryna Gurevych, Ivan Vulić<br><em>Findings of the Association for Computational Linguistics: EMNLP, 2023</em>
 
@@ -113,7 +113,7 @@ sections:
         <a href="https://dblp.org/rec/conf/ijcnn/PurkayasthaDGKB22.html">A Deep Neural Approach to KGQA via SPARQL Silhouette Generation</a>
         </span><br>
         <b>Sukannya Purkayastha</b>, Saswati Dana, Dinesh Garg, Dinesh Khandelwal, G. P. Shrivatsa Bhargav<br>
-        <em>Proceedings of the International Joint Conference on Neural Networks (IJCNN), 2022</em><br><br>
+        <em>International Joint Conference on Neural Networks (IJCNN), 2022</em><br><br>
 
 
         <span style="white-space: nowrap;">
@@ -123,9 +123,9 @@ sections:
         <em>12th Annual Workshop on Optimization for Machine Learning (OPT) at NeurIPS 2020</em>
 
 
-        <span style="white-space: nowrap;">[Medical Entity Linking using Triplet Network](/publications/conference-paper/mondal-etal-2019-medical/)</span><br>Ishani Mondal, <b>Sukannya Purkayastha</b>, Sudeshna Sarkar, Pawan Goyal, Jitesh Pillai, Amitava Bhattacharyya, Mahanandeeshwar Gattu<br><em>Proceedings of the 2nd Clinical Natural Language Processing Workshop, 2019</em>
+        <span style="white-space: nowrap;">[Medical Entity Linking using Triplet Network](/publications/conference-paper/mondal-etal-2019-medical/)</span><br>Ishani Mondal, <b>Sukannya Purkayastha</b>, Sudeshna Sarkar, Pawan Goyal, Jitesh Pillai, Amitava Bhattacharyya, Mahanandeeshwar Gattu<br><em>2nd Clinical Natural Language Processing Workshop, 2019</em>
 
-        <span style="white-space: nowrap;">[Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder](https://doi.org/10.1109/BIBE.2019.00104)</span><br><b>Sukannya Purkayastha</b>, Ishani Mondal, Sudeshna Sarkar, Pawan Goyal, Jitesh K. Pillai<br><em>IEEE 19th International Conference on Bioinformatics and Bioengineering (BIBE), 2019</em><br><br>
+        <span style="white-space: nowrap;">[Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder](https://doi.org/10.1109/BIBE.2019.00104)</span><br><b>Sukannya Purkayastha</b>, Ishani Mondal, Sudeshna Sarkar, Pawan Goyal, Jitesh K. Pillai<br><em> IEEE 19th International Conference on Bioinformatics and Bioengineering (BIBE), 2019</em><br><br>
         <hr style="border: none; border-top: 1px solid #ddd; margin: 1rem 0;">
     design:
       columns: '2'
