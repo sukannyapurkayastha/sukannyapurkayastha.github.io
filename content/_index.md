@@ -44,7 +44,7 @@ sections:
         <span style="white-space: nowrap;"> • July 2025: Attended ACL 2025 at Vienna!</span><br><br>
         <span style="white-space: nowrap;">• July 2025: Our benchmark paper "CaMMT" accepted at Findings of EMNLP 2025</span> <br><br>
         <span style="white-space: nowrap;">• May 2025: Our Paper "LazyReview" accepted at ACL 2025</span><br><br>
-        <hr style="border: none; border-top: 1px solid #ddd; margin: 1rem 0;">
+        <hr style="border: none; border-top: 1px solid #ddd; margin: 1rem 0;"><br><br>
     design:
       columns: '2'
       css_class: 'mt-0'
