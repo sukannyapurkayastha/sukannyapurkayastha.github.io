@@ -87,6 +87,56 @@
     width: 2.5rem !important;   /* default 3rem (w-12) */
     height: 2.5rem !important;  /* default 3rem (h-12) */
     font-size: 0.9rem;          /* smaller icon inside */
+@media (max-width: 640px) {
+    #section-resume-biography-3 .avatar-wrapper {
+        width: 150px !important;
+        height: 150px !important;
+        margin-bottom: 1rem !important;
+    }
+    #section-resume-biography-3 .avatar {
+        width: 100% !important;
+        height: 100% !important;
+    }
 
+    #section-resume-biography-3 .bio-name {
+        font-size: 1.5rem !important;
+        font-weight: 700 !important;
+        text-align: center !important;
+        margin-top: 0.5rem !important;
+    }
+    #section-resume-biography-3 .bio-tagline {
+        font-size: 1rem !important;
+        text-align: center !important;
+        margin-bottom: 1rem !important;
+    }
+
+    #section-resume-biography-3 .flex.flex-wrap.justify-center.gap-4 {
+        gap: 0.25rem !important;
+        justify-content: center !important;
+    }
+
+    #section-resume-biography-3 .bio-text p {
+        margin-top: 0.5rem !important;
+        margin-bottom: 1rem !important;
+        font-size: 0.95rem !important;
+        line-height: 1.4 !important;
+    }
+
+    #section-resume-biography-3 hr {
+        margin: 0.5rem 0 !important;
+    }
+
+    #section-resume-biography-3 .resume-biography {
+        padding-top: 1rem !important;
+        padding-bottom: 1rem !important;
+    }
+}
+
+@media (min-width: 641px) {
+    #section-resume-biography-3 .avatar-wrapper {
+        width: 320px !important;
+        height: 320px !important;
+    }
+}
     
 }
