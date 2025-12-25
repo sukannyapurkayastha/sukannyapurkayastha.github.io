@@ -63,6 +63,12 @@ sections:
         <b>Sukannya Purkayastha</b>, Qile Wan, Anne Lauscher, Lizhen Qu, Iryna Gurevych<br>
         <em>Under Review</em><br><br>
 
+        <span style="white-space: nowrap;">
+        <a href="https://arxiv.org/abs/2508.05283">Decision-Making with Deliberation: Meta-reviewing as a Document-grounded Dialogue</a>
+        </span><br>
+        <b>Sukannya Purkayastha</b>, Nils Dycke, Anne Lauscher, Iryna Gurevych<br>
+        <em>Under Review</em><br><br>
+
 
         <span style="white-space: nowrap;">
         <a href="https://aclanthology.org/2025.acl-long.165/">LazyReview: A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews</a>
@@ -84,18 +90,11 @@ sections:
         Ankan Mullick, <b>Sukannya Purkayastha</b>, Saransh Sharma, Pawan Goyal, Niloy Ganguly<br>
         <em>IEEE Transactions on Artificial Intelligence 2025</em><br><br>
 
-
-        <span style="white-space: nowrap;">
-        <a href="https://arxiv.org/abs/2508.05283">Decision-Making with Deliberation: Meta-reviewing as a Document-grounded Dialogue</a>
-        </span><br>
-        <b>Sukannya Purkayastha</b>, Nils Dycke, Anne Lauscher, Iryna Gurevych<br>
-        <em>Under Review</em><br><br>
-
         <span style="white-space: nowrap;">
         <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/1568882ba1a50316e87852542523739c-Abstract-Datasets_and_Benchmarks_Track.html">CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark</a>
         </span><br>
         David Romero, Chenyang Lyu, Haryo Akbarianto Wibowo, Teresa Lynn, Injy Hamed, Aditya Nanda Kishore, Aishik Mandal, Alina Dragonetti, Artem Abzaliev, Atnafu Lambebo Tonja, Bontu Fufa Balcha, Chenxi Whitehouse, Christian Salamea, Dan John Velasco, David Ifeoluwa Adelani, Maria Camila Buitrago Cabrera, Gisela Vallejo, <b>Sukannya Purkayastha</b>, …, Thamar Solorio<br>
-        <em>38th Conference on Neural Information Processing Systems (NeurIPS 2024), Datasets & Benchmarks Track, 2024</em>
+        <em>38th Conference on Neural Information Processing Systems (NeurIPS), Datasets & Benchmarks Track, 2024</em>
 
         <span style="white-space: nowrap;"><a href="https://aclanthology.org/2023.emnlp-main.894/">Exploring Jiu-Jitsu Argumentation for Writing Peer Review Rebuttals</a>
         </span><br>
@@ -121,7 +120,7 @@ sections:
         <a href="https://arxiv.org/abs/2012.02387">A Variant of Gradient Descent Algorithm Based on Gradient Averaging</a>
         </span><br>
         Saugata Purkayastha, Sukannya Purkayastha<br>
-        <em>12th Annual Workshop on Optimization for Machine Learning (OPT) at NeurIPS 2025</em>
+        <em>12th Annual Workshop on Optimization for Machine Learning (OPT) at NeurIPS 2020</em>
 
 
         <span style="white-space: nowrap;">[Medical Entity Linking using Triplet Network](/publications/conference-paper/mondal-etal-2019-medical/)</span><br>Ishani Mondal, <b>Sukannya Purkayastha</b>, Sudeshna Sarkar, Pawan Goyal, Jitesh Pillai, Amitava Bhattacharyya, Mahanandeeshwar Gattu<br><em>Proceedings of the 2nd Clinical Natural Language Processing Workshop, 2019</em>
