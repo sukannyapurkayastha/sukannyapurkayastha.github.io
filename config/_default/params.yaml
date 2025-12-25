@@ -32,12 +32,16 @@ header:
     enable: true
     block: 'navbar'
     fixed_to_top: true
-    show_search: true
     show_theme_chooser: true
     logo:
       text: 'Sukannya Purkayastha'
       # Path relative to the `static/` directory. Provide a small SVG/PNG used as the site icon/logo.
       image: 'media/site-icon.svg'
+  
+  search:
+    enable: true
+    block: 'search'
+
 
 # Site footer
 footer:
