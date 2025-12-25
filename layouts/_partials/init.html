@@ -1,0 +1,4 @@
+{{/* Local override: disable heavy pre-warming init from the theme module to avoid runtime slice errors during `hugo` render. */}}
+{{/* If you prefer the original behavior, remove this file to fall back to the module-provided partial. */}}
+
+{{/* Intentionally empty to prevent iterating over all .Site.Pages and calling .Content (which may trigger a runtime bug on some setups). */}}

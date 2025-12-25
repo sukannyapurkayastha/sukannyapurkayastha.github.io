@@ -1,0 +1,92 @@
+/* Collapse extra top/bottom padding for the section */
+#section-resume-biography-3,
+#section-resume-biography-3 .resume-biography {
+    padding-top: 1rem !important;   
+    padding-bottom: 1rem !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Remove extra Tailwind padding utilities */
+#section-resume-biography-3 .py-8,
+#section-resume-biography-3 .sm\:py-12,
+#section-resume-biography-3 .md\:py-16,
+#section-resume-biography-3 .lg\:py-24,
+#section-resume-biography-3 .xl\:py-32 {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* Reduce spacing in inner containers */
+#section-resume-biography-3 .mb-12,
+#section-resume-biography-3 .mt-12 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Reduce spacing inside paragraphs */
+#section-resume-biography-3 p {
+    margin-top: 0 !important;
+    margin-bottom: 1.5rem !important;
+}
+
+/* Reduce spacing of the HR divider */
+#section-resume-biography-3 hr {
+    margin: 0.5rem 0 !important;
+}
+
+/* Reduce spacing before the next section */
+#section-resume-biography-3 + section,
+#section-resume-biography-3 + div {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* Hide the "Professional Summary" heading */
+#section-resume-biography-3 h2 {
+    display: none !important;
+}
+
+/* Optionally hide the avatar/icon next to the heading */
+#section-resume-biography-3 .flex-shrink-0.w-12.h-12 {
+    display: none !important;
+}
+
+#section-resume-biography-3 .avatar {
+    width: 250px !important;
+    height: 250px !important;
+    object-fit: cover;
+}
+
+/* Make the avatar wrapper same size */
+#section-resume-biography-3 .avatar-wrapper {
+    width: 250px !important;
+    height: 250px !important;
+}
+
+/* Move avatar lower and center with bio */
+#section-resume-biography-3 .md\:col-span-4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  /* centers content vertically */
+    align-items: center;
+    padding-top: 2rem;        /* adjust this to push it further down */
+}
+
+/* Optional: reduce spacing between avatar and bio text */
+#section-resume-biography-3 .space-y-6,
+#section-resume-biography-3 .space-y-8 {
+    gap: 1rem !important;  /* reduce vertical gap */
+}
+#section-resume-biography-3 .flex.flex-wrap.justify-center.gap-4 {
+    gap: 0.5rem !important;  /* reduce space between icons */
+}
+
+/* Optional: make individual icons smaller */
+#section-resume-biography-3 .flex.flex-wrap.justify-center.gap-4 a {
+    width: 2.5rem !important;   /* default 3rem (w-12) */
+    height: 2.5rem !important;  /* default 3rem (h-12) */
+    font-size: 0.9rem;          /* smaller icon inside */
+
+    
+}

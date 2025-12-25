@@ -35,7 +35,9 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: 'Your Name'
+      text: 'Sukannya Purkayastha'
+      # Path relative to the `static/` directory. Provide a small SVG/PNG used as the site icon/logo.
+      image: 'media/site-icon.svg'
 
 # Site footer
 footer:

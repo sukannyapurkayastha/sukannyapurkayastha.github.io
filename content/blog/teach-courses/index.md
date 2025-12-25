@@ -21,13 +21,7 @@ On this page, you'll find some examples of the types of technical content that c
 
 ## Citation
 
-Here's an example of citing a publication using the cite shortcode:
-
-{{< cite page="/publications/preprint" view="citation" >}}
-
-You can also use the default view by omitting the view parameter:
-
-{{< cite page="/publications/conference-paper" >}}
+(Removed example citation shortcodes to avoid demo citation entries appearing on the site.)
 
 ## Video
 

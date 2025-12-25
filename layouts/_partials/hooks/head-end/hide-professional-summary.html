@@ -1,0 +1,56 @@
+<style>
+  /* ==========================
+     Global font override
+     ========================== */
+  :root {
+    --site-ui-font: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  }
+  html, body {
+    font-family: var(--site-ui-font) !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+  }
+
+  /* ==========================
+     Biography section tweaks
+     ========================== */
+/* Collapse top/bottom padding/margin of the section itself */
+#section-resume-biography-3 {
+    padding-top: 1rem !important;    /* minimal top space */
+    padding-bottom: 1rem !important; /* minimal bottom space */
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Collapse padding in the inner resume-biography container */
+#section-resume-biography-3 .resume-biography {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+/* Remove extra margins on inner grid and columns */
+#section-resume-biography-3 .mb-12,
+#section-resume-biography-3 .mt-12 {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* Reduce spacing between paragraphs */
+#section-resume-biography-3 p {
+    margin-top: 0 !important;
+    margin-bottom: 0.5rem !important;
+}
+
+/* Reduce spacing of the HR divider */
+#section-resume-biography-3 hr {
+    margin: 0.5rem 0 !important;
+}
+
+/* Reduce spacing before the next section */
+#section-resume-biography-3 + section,
+#section-resume-biography-3 + div {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+</style>
