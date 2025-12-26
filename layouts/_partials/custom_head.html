@@ -1,0 +1,27 @@
+<style>
+/* Test - this should make everything red */
+body {
+  border: 5px solid red !important;
+}
+
+.desktop-nowrap {
+  white-space: nowrap !important;
+  border: 3px solid blue !important;
+}
+
+@media (max-width: 768px) {
+  .desktop-nowrap {
+    white-space: normal !important;
+  }
+  
+  body, p, div, span, h1, h2, h3, h4, h5, h6 {
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+  }
+  
+  .navbar-brand {
+    white-space: normal !important;
+    max-width: 70vw !important;
+  }
+}
+</style>

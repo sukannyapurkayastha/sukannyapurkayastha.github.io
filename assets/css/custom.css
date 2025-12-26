@@ -133,21 +133,33 @@ h6 { font-size: 0.875rem; }
     object-fit: cover;
 }
 
+/* Test if CSS is loading */
+.desktop-nowrap {
+  background-color: yellow !important;
+  white-space: nowrap !important;
+}
+
+@media (min-width: 769px) {
+  .desktop-nowrap {
+    white-space: nowrap !important;
+    background-color: lightblue !important;
+  }
+}
+
 @media (max-width: 768px) {
-  body, p, div, span {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
+  .desktop-nowrap {
+    white-space: normal !important;
+    background-color: lightgreen !important;
+  }
+  
+  body, p, div, span, h1, h2, h3, h4, h5, h6 {
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
   }
   
   .navbar-brand {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    white-space: normal;
-    max-width: 70vw;
-  }
-  
-  h1, h2, h3, h4, h5, h6 {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
+    white-space: normal !important;
+    max-width: 70vw !important;
+    word-wrap: break-word !important;
   }
 }

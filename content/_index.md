@@ -59,13 +59,13 @@ sections:
     content:
       title: Selected Publications
       text: |
-        <span style="white-space: nowrap;">
+        <span style="whitespace: nowrap;">
         <a href="">Reviewing the reviewer: Elevating review quality through LLM-guided feedback</a>
         </span><br>
         <b>Sukannya Purkayastha</b>, Qile Wan, Anne Lauscher, Lizhen Qu, Iryna Gurevych<br>
         <em>Under Review</em><br><br>
 
-        <span style="white-space: nowrap;">
+        <span style="whitespace: nowrap;">
         <a href="https://arxiv.org/abs/2508.05283">Decision-Making with Deliberation: Meta-reviewing as a Document-grounded Dialogue</a>
         </span><br>
         <b>Sukannya Purkayastha</b>, Nils Dycke, Anne Lauscher, Iryna Gurevych<br>
