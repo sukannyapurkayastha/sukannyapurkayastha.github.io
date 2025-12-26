@@ -3,7 +3,7 @@
 title: Sukannya Purkayastha
 
 # Name pronunciation (optional)
-name_pronunciation: 'suːˈkɑːn.jə pʊrˈkɑː.jəs.tʰɑː'
+name_pronunciation: 'suː.ˈkɑːn.ˈjə pʊrˈkɑː.jəs.tʰɑː'
 
 # Full name (for SEO)
 first_name: Sukannya
