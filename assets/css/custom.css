@@ -132,3 +132,22 @@ h6 { font-size: 0.875rem; }
     height: 100% !important;
     object-fit: cover;
 }
+
+@media (max-width: 768px) {
+  body, p, div, span {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .navbar-brand {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    white-space: normal;
+    max-width: 70vw;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+}
