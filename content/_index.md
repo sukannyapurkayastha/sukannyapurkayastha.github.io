@@ -56,7 +56,7 @@ sections:
   - block: markdown
     id: papers
     content:
-      title: Papers
+      title: Selected Publications
       text: |
         <span style="white-space: nowrap;">
         <a href="">Reviewing the reviewer: Elevating review quality through LLM-guided feedback</a>
