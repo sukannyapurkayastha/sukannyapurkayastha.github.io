@@ -10,6 +10,12 @@ imports:
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
+  - source: assets
+    target: assets
+  - source: static
+    target: static
+  - source: content
+    target: content
   - source: hugo-blox/blox/community
     target: layouts/_partials/blox/community/
     includeFiles: '**.html'
