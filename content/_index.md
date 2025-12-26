@@ -40,7 +40,7 @@ sections:
       title: News
       text: |
         <span style="white-space: nowrap;"> • December 2025: I presented two of my papers at <a href="https://sciprodllm.github.io/2025/index.html">SciProd-LLM Workshop </a> at AACL IJCNLP, 2025</span><br>
-        <span style="white-space: nowrap;">• November 2025: Our paper on Riemannian Gradient Averaging was presented in the <a href="https://lacoco-lab.github.io/events/PreNeurIPS2025/">ELLIS Pre-NeurIPS workshop </a></span> at Universität des Saarlandes.<br>
+        <span style="white-space: nowrap;">• November 2025: Saugata presented our paper on Riemannian Gradient Averaging in the <a href="https://lacoco-lab.github.io/events/PreNeurIPS2025/">ELLIS Pre-NeurIPS workshop </a></span> at Universität des Saarlandes.<br>
         <span style="white-space: nowrap;">• October 2025: Our paper on Riemannian Gradient Averaging accepted at OPT workshop at NeurIPS 2025.</span><br>
         • <span style="white-space: nowrap;">October 2025:</span> I started my internship at NEC Labs, Europe!<br>
         <span style="white-space: nowrap;"> • July 2025: Attending ACL 2025 at Vienna!</span><br>
