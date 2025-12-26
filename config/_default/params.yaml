@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Sukannya Purkayastha.'
+    twitter: 'i_sukannya'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,7 +36,7 @@ header:
     logo:
       text: 'Sukannya Purkayastha'
       # Path relative to the `static/` directory. Provide a small SVG/PNG used as the site icon/logo.
-      image: 'media/site-icon.svg'
+      image: ''
   
   search:
     enable: true
@@ -46,7 +46,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2025} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
