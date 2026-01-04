@@ -39,6 +39,7 @@ sections:
     content:
       title: News
       text: |
+        <span style="white-space: nowrap;"> • January 2026: Our paper "Decision Making with Deliberation" accepted at <a href="https://2026.eacl.org/">EACL Main, 2026 </a>!</span><br>
         <span style="white-space: nowrap;"> • December 2025: I presented "Lazy Review" and  "Decision Making with Deliberation"</span> in the <a href="https://sciprodllm.github.io/2025/index.html">SciProdLLM Workshop </a> at AACL IJCNLP, 2025<br>
         <span style="white-space: nowrap;">• November 2025: Saugata presented our paper on Riemannian Gradient Averaging in the <a href="https://lacoco-lab.github.io/events/PreNeurIPS2025/">ELLIS </span> Pre-NeurIPS workshop </a> at Universität des Saarlandes.<br>
         <span style="white-space: nowrap;">• October 2025: Our paper on Riemannian Gradient Averaging accepted at OPT workshop at NeurIPS 2025.</span><br>
@@ -69,7 +70,7 @@ sections:
         <a href="https://arxiv.org/abs/2508.05283">Decision-Making with Deliberation: Meta-reviewing as a Document-grounded Dialogue</a>
         </span><br>
         <b>Sukannya Purkayastha</b>, Nils Dycke, Anne Lauscher, Iryna Gurevych<br>
-        <em>Under Review</em><br><br>
+        <em>19th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026</em><br><br>
 
 
         <span style="white-space: nowrap;">
