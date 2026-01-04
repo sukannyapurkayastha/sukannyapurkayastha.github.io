@@ -45,9 +45,9 @@ profiles:
     url: https://github.com/sukannyapurkayastha
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=SAhTZJIAAAAJ&hl=en
-  - icon: academicons/cv
-    url: '../Sukannya_Purkayastha_CV.pdf'
-    label: CV
+  #- icon: academicons/cv
+  #  url: '../Sukannya_Purkayastha_CV.pdf'
+  #  label: CV
 
 
 
