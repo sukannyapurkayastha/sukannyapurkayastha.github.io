@@ -69,7 +69,7 @@ sections:
 
 
         <span style="whitespace: nowrap;">
-        <a href="">Common Sense vs Morality: The curious case of Narrative Focus bias on LLMs.</a>
+        <a href="https://arxiv.org/pdf/2603.09434v1">Common Sense vs Morality: The curious case of Narrative Focus bias on LLMs.</a>
         </span><br>
         Saugata Purkayastha, Pranav Kushare, Pragya Pal, <b>Sukannya Purkayastha</b><br>
         <em>15th biennial Language Resources and Evaluation Conference (LREC), 2026</em><br><br>
