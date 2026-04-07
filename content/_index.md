@@ -39,8 +39,7 @@ sections:
     content:
       title: News
       text: |
-      <span style="white-space: nowrap;"> • February 2026: Our paper "Reviewing the Reviewer" accepted at <a href="https://2026.aclweb.org/">Findings of ACL 2026 </a>! 🚀</span><br>
-        <span style="white-space: nowrap;"> • January 2026: Our paper "Decision Making with Deliberation" accepted at <a href="https://2026.eacl.org/">EACL Main, 2026 </a>! 🚀</span><br>
+      <span style="white-space: nowrap;"> • April 2026: Our paper "Reviewing the Reviewer" accepted at <a href="https://2026.aclweb.org/">Findings of ACL 2026 </a>! 🎉</span><br>
         <span style="white-space: nowrap;"> • February 2026: Our paper "Common Sense vs Morality" accepted at <a href="https://lrec2026.info/">LREC 2026 </a>! 🚀</span><br>
         <span style="white-space: nowrap;"> • January 2026: Our paper "Decision Making with Deliberation" accepted at <a href="https://2026.eacl.org/">EACL Main, 2026 </a>! 🚀</span><br>
         <span style="white-space: nowrap;"> • December 2025: I presented "Lazy Review" and  "Decision Making with Deliberation"</span> in the <a href="https://sciprodllm.github.io/2025/index.html">SciProdLLM Workshop </a> at AACL IJCNLP, 2025 🎤<br>
