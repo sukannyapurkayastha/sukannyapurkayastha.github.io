@@ -39,6 +39,8 @@ sections:
     content:
       title: News
       text: |
+      <span style="white-space: nowrap;"> • February 2026: Our paper "Reviewing the Reviewer" accepted at <a href="https://2026.aclweb.org/">Findings of ACL 2026 </a>! 🚀</span><br>
+        <span style="white-space: nowrap;"> • January 2026: Our paper "Decision Making with Deliberation" accepted at <a href="https://2026.eacl.org/">EACL Main, 2026 </a>! 🚀</span><br>
         <span style="white-space: nowrap;"> • February 2026: Our paper "Common Sense vs Morality" accepted at <a href="https://lrec2026.info/">LREC 2026 </a>! 🚀</span><br>
         <span style="white-space: nowrap;"> • January 2026: Our paper "Decision Making with Deliberation" accepted at <a href="https://2026.eacl.org/">EACL Main, 2026 </a>! 🚀</span><br>
         <span style="white-space: nowrap;"> • December 2025: I presented "Lazy Review" and  "Decision Making with Deliberation"</span> in the <a href="https://sciprodllm.github.io/2025/index.html">SciProdLLM Workshop </a> at AACL IJCNLP, 2025 🎤<br>
@@ -65,7 +67,7 @@ sections:
         <a href="https://arxiv.org/abs/2602.10118">Reviewing the reviewer: Elevating review quality through LLM-guided feedback</a>
         </span><br>
         <b>Sukannya Purkayastha</b>, Qile Wan, Anne Lauscher, Lizhen Qu, Iryna Gurevych<br>
-        <em>Under Review</em><br><br>
+        <em>Findings of the Association for Computational Linguistics: ACL 2026</em><br><br>
 
 
         <span style="whitespace: nowrap;">
