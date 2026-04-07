@@ -40,16 +40,16 @@ sections:
       title: News
       text: |
       <span style="white-space: nowrap;"> • April 2026: Our paper "Reviewing the Reviewer" accepted at <a href="https://2026.aclweb.org/">Findings of ACL 2026 </a>! 🎉</span><br>
-        <span style="white-space: nowrap;"> • February 2026: Our paper "Common Sense vs Morality" accepted at <a href="https://lrec2026.info/">LREC 2026 </a>! 🚀</span><br>
-        <span style="white-space: nowrap;"> • January 2026: Our paper "Decision Making with Deliberation" accepted at <a href="https://2026.eacl.org/">EACL Main, 2026 </a>! 🚀</span><br>
-        <span style="white-space: nowrap;"> • December 2025: I presented "Lazy Review" and  "Decision Making with Deliberation"</span> in the <a href="https://sciprodllm.github.io/2025/index.html">SciProdLLM Workshop </a> at AACL IJCNLP, 2025 🎤<br>
-        <span style="white-space: nowrap;">• November 2025: Saugata presented our paper on Riemannian Gradient Averaging in the <a href="https://lacoco-lab.github.io/events/PreNeurIPS2025/">ELLIS </span> Pre-NeurIPS workshop </a> at Universität des Saarlandes. 🎤<br>
-        <span style="white-space: nowrap;">• October 2025: Our paper on Riemannian Gradient Averaging accepted at OPT workshop at NeurIPS 2025. 🎉</span><br>
-        • <span style="white-space: nowrap;">October 2025:</span> I started my internship at NEC Labs, Europe! 💼<br>
-        <span style="white-space: nowrap;"> • July 2025: Attending ACL 2025 at Vienna! 🇦🇹</span><br>
-        <span style="white-space: nowrap;">• July 2025: Our benchmark paper "CaMMT" accepted at Findings of EMNLP 2025 🎉</span> <br>
-        <span style="white-space: nowrap;">• May 2025: Our Paper "LazyReview" accepted at ACL 2025 🎉</span><br>
-        <hr style="border: none; border-top: 1px solid #ddd; margin: 1rem 0;"><br>
+      <span style="white-space: nowrap;"> • February 2026: Our paper "Common Sense vs Morality" accepted at <a href="https://lrec2026.info/">LREC 2026 </a>! 🚀</span><br>
+      <span style="white-space: nowrap;"> • January 2026: Our paper "Decision Making with Deliberation" accepted at <a href="https://2026.eacl.org/">EACL Main, 2026 </a>! 🚀</span><br>
+      <span style="white-space: nowrap;"> • December 2025: I presented "Lazy Review" and  "Decision Making with Deliberation"</span> in the <a href="https://sciprodllm.github.io/2025/index.html">SciProdLLM Workshop </a> at AACL IJCNLP, 2025 🎤<br>
+      <span style="white-space: nowrap;">• November 2025: Saugata presented our paper on Riemannian Gradient Averaging in the <a href="https://lacoco-lab.github.io/events/PreNeurIPS2025/">ELLIS </span> Pre-NeurIPS workshop </a> at Universität des Saarlandes. 🎤<br>
+      <span style="white-space: nowrap;">• October 2025: Our paper on Riemannian Gradient Averaging accepted at OPT workshop at NeurIPS 2025. 🎉</span><br>
+      <span style="white-space: nowrap;">October 2025:</span> I started my internship at NEC Labs, Europe! 💼<br>
+      <span style="white-space: nowrap;"> • July 2025: Attending ACL 2025 at Vienna! 🇦🇹</span><br>
+      <span style="white-space: nowrap;">• July 2025: Our benchmark paper "CaMMT" accepted at Findings of EMNLP 2025 🎉</span> <br>
+      <span style="white-space: nowrap;">• May 2025: Our Paper "LazyReview" accepted at ACL 2025 🎉</span><br>
+      <hr style="border: none; border-top: 1px solid #ddd; margin: 1rem 0;"><br>
     design:
       columns: '2'
       css_class: 'mt-0'
