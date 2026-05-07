@@ -32,7 +32,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       title: ''
-      text: ''
       # Show a call-to-action button under your biography? (optional)
       #button:
       #  text: Download CV
@@ -41,7 +40,6 @@ sections:
         about: ''
         education: ''
         interests: ''
-      design:
       text: |
         <span style="white-space: nowrap;">
           <a href="https://arxiv.org/abs/2602.10118">Reviewing the reviewer: Elevating review quality through LLM-guided feedback</a>
