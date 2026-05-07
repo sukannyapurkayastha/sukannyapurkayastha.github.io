@@ -9,11 +9,29 @@ design:
   spacing: '1rem'
   
 sections:
+  - block: resume-biography-3
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      title: 'Biography'
+      # Show a call-to-action button under your biography? (optional)
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
+      headings:
+        about: 'Biography'
+        education: 'Education'
+        interests: 'Interests'
+    design:
+      css_id: bio
+      columns: '2'
+      spacing:
+        padding: ['0', '0', '0', '0']
   - block: markdown
     content:
       title: Recent News
       text: |
-        • **May 2026**: Started as Research Associate at Univeristy of Würzburg, Germany! 🚀
+        • **May 2026**: Started as Research Associate at University of Würzburg, Germany! 🚀
         • **February 2026**: Our paper “Common Sense vs Morality” accepted at LREC 2026 ! 🚀
         • **January 2026**: Our paper “Decision Making with Deliberation” accepted at EACL Main, 2026 ! 🚀
         • **December 2025**: I presented “Lazy Review” and “Decision Making with Deliberation” in the SciProdLLM Workshop at AACL IJCNLP, 2025 🎤
@@ -24,22 +42,13 @@ sections:
         • **July 2025**: Our benchmark paper “CaMMT” accepted at Findings of EMNLP 2025 🎉
         • **May 2025**: Our Paper “LazyReview” accepted at ACL 2025 🎉
     design:
+      css_id: news
       columns: '1'
       spacing:
         padding: ['2rem', '0', '1rem', '0']
-  - block: resume-biography-3
+  - block: markdown
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      title: ''
-      # Show a call-to-action button under your biography? (optional)
-      #button:
-      #  text: Download CV
-      #  url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
+      title: Publications
       text: |
         <span style="white-space: nowrap;">
           <a href="https://arxiv.org/abs/2602.10118">Reviewing the reviewer: Elevating review quality through LLM-guided feedback</a>
@@ -47,22 +56,17 @@ sections:
         <b>Sukannya Purkayastha</b>, Qile Wan, Anne Lauscher, Lizhen Qu, Iryna Gurevych<br>
         <em>Findings of the Association for Computational Linguistics: ACL 2026</em><br><br>
 
-
-
         <span style="white-space: nowrap;">
           <a href="https://arxiv.org/pdf/2603.09434v1">Common Sense vs Morality: The curious case of Narrative Focus bias on LLMs.</a>
         </span><br>
         Saugata Purkayastha, Pranav Kushare, Pragya Pal, <b>Sukannya Purkayastha</b><br>
         <em>15th biennial Language Resources and Evaluation Conference (LREC), 2026</em><br><br>
 
-
-
         <span style="white-space: nowrap;">
           <a href="https://arxiv.org/abs/2508.05283">Decision-Making with Deliberation: Meta-reviewing as a Document-grounded Dialogue</a>
         </span><br>
         <b>Sukannya Purkayastha</b>, Nils Dycke, Anne Lauscher, Iryna Gurevych<br>
         <em>19th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026</em><br><br>
-
 
         <span style="white-space: nowrap;">
           <a href="https://aclanthology.org/2025.acl-long.165/">LazyReview: A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews</a>
@@ -95,11 +99,9 @@ sections:
         <b>Sukannya Purkayastha</b>, Anne Lauscher, Iryna Gurevych<br>
         <em>Empirical Methods in Natural Language Processing (EMNLP), 2023</em>
 
-        <span style="white-space: nowrap;">[Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning](https://aclanthology.org/2023.emnlp-demo.13/)</span><br>Clifton Poth, Hannah Sterz, Indraneil Paul, <b>Sukannya Purkayastha</b>, Leon Engländer, Timo Imhof, Ivan Vulić, Sebastian Ruder, Iryna Gurevych, Jonas Pfeiffer<br><em>Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations, 2023</em>
+        <span style="white-space: nowrap;">Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning</span><br>Clifton Poth, Hannah Sterz, Indraneil Paul, <b>Sukannya Purkayastha</b>, Leon Engländer, Timo Imhof, Ivan Vulić, Sebastian Ruder, Iryna Gurevych, Jonas Pfeiffer<br><em>Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations, 2023</em>
 
-        <span style="white-space: nowrap;">[Romanization-based Large-scale Adaptation of Multilingual Language Models](https://aclanthology.org/2023.findings-emnlp.538/)</span><br><b>Sukannya Purkayastha</b>, Sebastian Ruder, Jonas Pfeiffer, Iryna Gurevych, Ivan Vulić<br><em>Findings of the Association for Computational Linguistics: EMNLP, 2023</em>
-
-        
+        <span style="white-space: nowrap;">Romanization-based Large-scale Adaptation of Multilingual Language Models</span><br><b>Sukannya Purkayastha</b>, Sebastian Ruder, Jonas Pfeiffer, Iryna Gurevych, Ivan Vulić<br><em>Findings of the Association for Computational Linguistics: EMNLP, 2023</em>
 
         <span style="white-space: nowrap;"><a href="https://aclanthology.org/2022.findings-naacl.282/">A Framework to Generate High-Quality Datapoints for Multiple Novel Intent Detection</a></span><br>Ankan Mullick*, <b>Sukannya Purkayastha</b>*, Pawan Goyal, Niloy Ganguly<br><em>Findings of the Association for Computational Linguistics: NAACL, 2022</em>
 
@@ -115,15 +117,14 @@ sections:
         Saugata Purkayastha, <b>Sukannya Purkayastha</b><br>
         <em>12th Annual Workshop on Optimization for Machine Learning (OPT) at NeurIPS 2020</em>
 
+        <span style="white-space: nowrap;">Medical Entity Linking using Triplet Network</span><br>Ishani Mondal, <b>Sukannya Purkayastha</b>, Sudeshna Sarkar, Pawan Goyal, Jitesh Pillai, Amitava Bhattacharyya, Mahanandeeshwar Gattu<br><em>2nd Clinical Natural Language Processing Workshop, 2019</em>
 
-        <span style="white-space: nowrap;">[Medical Entity Linking using Triplet Network](/publications/conference-paper/mondal-etal-2019-medical/)</span><br>Ishani Mondal, <b>Sukannya Purkayastha</b>, Sudeshna Sarkar, Pawan Goyal, Jitesh Pillai, Amitava Bhattacharyya, Mahanandeeshwar Gattu<br><em>2nd Clinical Natural Language Processing Workshop, 2019</em>
-
-        <span style="white-space: nowrap;">[Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder](https://doi.org/10.1109/BIBE.2019.00104)</span><br><b>Sukannya Purkayastha</b>, Ishani Mondal, Sudeshna Sarkar, Pawan Goyal, Jitesh K. Pillai<br><em> IEEE 19th International Conference on Bioinformatics and Bioengineering (BIBE), 2019</em>
-        <hr style="border: none; border-top: 1px solid #ddd; margin: 1rem 0;">
+        <span style="white-space: nowrap;">Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder</span><br><b>Sukannya Purkayastha</b>, Ishani Mondal, Sudeshna Sarkar, Pawan Goyal, Jitesh K. Pillai<br><em> IEEE 19th International Conference on Bioinformatics and Bioengineering (BIBE), 2019</em>
+        <hr style="border: none; border-top: 1px solid #ddd; margin: 2rem 0;"><br>
     design:
-      columns: '2'
-      css_class: ''
+      css_id: publications
+      columns: '1'
       spacing:
-        padding: ['0', '0', '0', '0']
+        padding: ['2rem', '0', '1rem', '0']
 
 ---
