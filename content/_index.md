@@ -31,16 +31,25 @@ sections:
     content:
       title: Recent News
       text: |
-        • **May 2026**: Started as Research Associate at University of Würzburg, Germany! 🚀
-        • **February 2026**: Our paper “Common Sense vs Morality” accepted at LREC 2026 ! 🚀
-        • **January 2026**: Our paper “Decision Making with Deliberation” accepted at EACL Main, 2026 ! 🚀
-        • **December 2025**: I presented “Lazy Review” and “Decision Making with Deliberation” in the SciProdLLM Workshop at AACL IJCNLP, 2025 🎤
-        • **November 2025**: Saugata presented our paper on Riemannian Gradient Averaging in the ELLIS Pre-NeurIPS workshop at Universität des Saarlandes. 🎤
-        • **October 2025**: Our paper on Riemannian Gradient Averaging accepted at OPT workshop at NeurIPS 2025. 🎉
-        • **October 2025**: I started my internship at NEC Labs, Europe! 💼
-        • **July 2025**: Attending ACL 2025 at Vienna! 🇦🇹
-        • **July 2025**: Our benchmark paper “CaMMT” accepted at Findings of EMNLP 2025 🎉
-        • **May 2025**: Our Paper “LazyReview” accepted at ACL 2025 🎉
+        - **May 2026**: Started as Research Associate at University of Würzburg, Germany! 🚀<br><br>
+
+        - **February 2026**: Our paper “Common Sense vs Morality” accepted at LREC 2026 ! 🚀<br><br>
+
+        - **January 2026**: Our paper “Decision Making with Deliberation” accepted at EACL Main, 2026 ! 🚀<br><br>
+
+        - **December 2025**: I presented “Lazy Review” and “Decision Making with Deliberation” in the SciProdLLM Workshop at AACL IJCNLP, 2025 🎤<br><br>
+
+        - **November 2025**: Saugata presented our paper on Riemannian Gradient Averaging in the ELLIS Pre-NeurIPS workshop at Universität des Saarlandes. 🎤<br><br>
+
+        - **October 2025**: Our paper on Riemannian Gradient Averaging accepted at OPT workshop at NeurIPS 2025. 🎉<br><br>
+
+        - **October 2025**: I started my internship at NEC Labs, Europe! 💼<br><br>
+
+        - **July 2025**: Attending ACL 2025 at Vienna! 🇦🇹<br><br>
+
+        - **July 2025**: Our benchmark paper “CaMMT” accepted at Findings of EMNLP 2025 🎉<br><br>
+
+        - **May 2025**: Our Paper “LazyReview” accepted at ACL 2025 🎉<br>
     design:
       css_id: news
       columns: '1'

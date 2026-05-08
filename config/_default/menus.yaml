@@ -5,13 +5,13 @@
 
 main:
   - name: Bio
-    url: /
+    url: /#bio
     weight: 10
   - name: News
     url: /#news
     weight: 11
   - name: Papers
-    url: /#papers
+    url: /#publications
     weight: 20
 #  - name: Projects
 #    url: projects/
