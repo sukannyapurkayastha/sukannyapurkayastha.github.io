@@ -122,7 +122,7 @@ sections:
         <span style="white-space: nowrap;"><a href="https://aclanthology.org/W19-1912/">Medical Entity Linking using Triplet Network</a></span><br>Ishani Mondal, <b>Sukannya Purkayastha</b>, Sudeshna Sarkar, Pawan Goyal, Jitesh Pillai, Amitava Bhattacharyya, Mahanandeeshwar Gattu<br><em>2nd Clinical Natural Language Processing Workshop, 2019</em>
 
         <span style="white-space: nowrap;"><a href="https://ieeexplore.ieee.org/abstract/document/8941958/">Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder</a></span><br><b>Sukannya Purkayastha</b>, Ishani Mondal, Sudeshna Sarkar, Pawan Goyal, Jitesh K. Pillai<br><em> IEEE 19th International Conference on Bioinformatics and Bioengineering (BIBE), 2019</em>
-  <hr style="border: none; border-top: 1px solid #ddd; margin: 2rem 0;">
+        <hr style="border: none; border-top: 1px solid #ddd; margin: 2rem 0;">
     design:
       css_id: publications
       columns: '1'
