@@ -31,25 +31,17 @@ sections:
     content:
       title: Recent News
       text: |
-        - **May 2026**: Started as Research Associate at University of Würzburg, Germany! 🚀<br><br>
-
-        - **February 2026**: Our paper “Common Sense vs Morality” accepted at LREC 2026 ! 🚀<br><br>
-
-        - **January 2026**: Our paper “Decision Making with Deliberation” accepted at EACL Main, 2026 ! 🚀<br><br>
-
-        - **December 2025**: I presented “Lazy Review” and “Decision Making with Deliberation” in the SciProdLLM Workshop at AACL IJCNLP, 2025 🎤<br><br>
-
-        - **November 2025**: Saugata presented our paper on Riemannian Gradient Averaging in the ELLIS Pre-NeurIPS workshop at Universität des Saarlandes. 🎤<br><br>
-
-        - **October 2025**: Our paper on Riemannian Gradient Averaging accepted at OPT workshop at NeurIPS 2025. 🎉<br><br>
-
-        - **October 2025**: I started my internship at NEC Labs, Europe! 💼<br><br>
-
-        - **July 2025**: Attending ACL 2025 at Vienna! 🇦🇹<br><br>
-
-        - **July 2025**: Our benchmark paper “CaMMT” accepted at Findings of EMNLP 2025 🎉<br><br>
-
-        - **May 2025**: Our Paper “LazyReview” accepted at ACL 2025 🎉<br>
+        <a id="news"></a>
+        - **May 2026**: Started as Research Associate at University of Würzburg, Germany! 🚀
+        - **February 2026**: Our paper “Common Sense vs Morality” accepted at LREC 2026! 🚀
+        - **January 2026**: Our paper “Decision Making with Deliberation” accepted at EACL 2026! 🚀
+        - **December 2025**: I presented “Lazy Review” and “Decision Making with Deliberation” at the SciProd-LLM Workshop (AACL IJCNLP 2025) 🎤
+        - **November 2025**: Saugata presented our paper on Riemannian Gradient Averaging at the ELLIS Pre-NeurIPS workshop 🎤
+        - **October 2025**: Our paper on Riemannian Gradient Averaging accepted at OPT workshop (NeurIPS 2025) 🎉
+        - **October 2025**: Started internship at NEC Labs, Europe 💼
+        - **July 2025**: Attended ACL 2025 in Vienna 🇦🇹
+        - **July 2025**: Our benchmark paper “CaMMT” accepted at Findings of EMNLP 2025 🎉
+        - **May 2025**: Our paper “LazyReview” accepted at ACL 2025 🎉
     design:
       css_id: news
       columns: '1'
@@ -59,6 +51,7 @@ sections:
     content:
       title: Publications
       text: |
+        <a id="publications"></a>
         <span style="white-space: nowrap;">
           <a href="https://arxiv.org/abs/2602.10118">Reviewing the reviewer: Elevating review quality through LLM-guided feedback</a>
         </span><br>
@@ -126,10 +119,10 @@ sections:
         Saugata Purkayastha, <b>Sukannya Purkayastha</b><br>
         <em>12th Annual Workshop on Optimization for Machine Learning (OPT) at NeurIPS 2020</em>
 
-        <span style="white-space: nowrap;">Medical Entity Linking using Triplet Network</span><br>Ishani Mondal, <b>Sukannya Purkayastha</b>, Sudeshna Sarkar, Pawan Goyal, Jitesh Pillai, Amitava Bhattacharyya, Mahanandeeshwar Gattu<br><em>2nd Clinical Natural Language Processing Workshop, 2019</em>
+        <span style="white-space: nowrap;"><a href="https://aclanthology.org/W19-1912/">Medical Entity Linking using Triplet Network</a></span><br>Ishani Mondal, <b>Sukannya Purkayastha</b>, Sudeshna Sarkar, Pawan Goyal, Jitesh Pillai, Amitava Bhattacharyya, Mahanandeeshwar Gattu<br><em>2nd Clinical Natural Language Processing Workshop, 2019</em>
 
-        <span style="white-space: nowrap;">Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder</span><br><b>Sukannya Purkayastha</b>, Ishani Mondal, Sudeshna Sarkar, Pawan Goyal, Jitesh K. Pillai<br><em> IEEE 19th International Conference on Bioinformatics and Bioengineering (BIBE), 2019</em>
-        <hr style="border: none; border-top: 1px solid #ddd; margin: 2rem 0;"><br>
+        <span style="white-space: nowrap;"><a href="https://ieeexplore.ieee.org/abstract/document/8941958/">Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder</a></span><br><b>Sukannya Purkayastha</b>, Ishani Mondal, Sudeshna Sarkar, Pawan Goyal, Jitesh K. Pillai<br><em> IEEE 19th International Conference on Bioinformatics and Bioengineering (BIBE), 2019</em>
+  <hr style="border: none; border-top: 1px solid #ddd; margin: 2rem 0;">
     design:
       css_id: publications
       columns: '1'
