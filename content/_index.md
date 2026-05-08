@@ -32,16 +32,16 @@ sections:
       title: Recent News
       text: |
         <a id="news"></a>
-        <p><strong>May 2026</strong>: Started as Research Associate at University of Würzburg, Germany! 🚀</p>
-        <p><strong>February 2026</strong>: Our paper “Common Sense vs Morality” accepted at LREC 2026! 🚀</p>
-        <p><strong>January 2026</strong>: Our paper “Decision Making with Deliberation” accepted at EACL 2026! 🚀</p>
-        <p><strong>December 2025</strong>: I presented “Lazy Review” and “Decision Making with Deliberation” at the SciProd-LLM Workshop (AACL IJCNLP 2025) 🎤</p>
-        <p><strong>November 2025</strong>: Saugata presented our paper on Riemannian Gradient Averaging at the ELLIS Pre-NeurIPS workshop 🎤</p>
-        <p><strong>October 2025</strong>: Our paper on Riemannian Gradient Averaging accepted at OPT workshop (NeurIPS 2025) 🎉</p>
-        <p><strong>October 2025</strong>: Started internship at NEC Labs, Europe 💼</p>
-        <p><strong>July 2025</strong>: Attended ACL 2025 in Vienna 🇦🇹</p>
-        <p><strong>July 2025</strong>: Our benchmark paper “CaMMT” accepted at Findings of EMNLP 2025 🎉</p>
-        <p><strong>May 2025</strong>: Our paper “LazyReview” accepted at ACL 2025 🎉</p>
+        <span style="white-space: nowrap;"><strong>May 2026</strong>: Started as Research Associate at University of Würzburg, Germany! 🚀</span><br><br>
+        <span style="white-space: nowrap;"><strong>February 2026</strong>: Our paper “Common Sense vs Morality” accepted at LREC 2026! 🚀</span><br><br>
+        <span style="white-space: nowrap;"><strong>January 2026</strong>: Our paper “Decision Making with Deliberation” accepted at EACL 2026! 🚀</span><br><br>
+        <span style="white-space: nowrap;"><strong>December 2025</strong>: I presented “Lazy Review” and “Decision Making with Deliberation” at the SciProd-LLM Workshop (AACL IJCNLP 2025) 🎤</span><br><br>
+        <span style="white-space: nowrap;"><strong>November 2025</strong>: Saugata presented our paper on Riemannian Gradient Averaging at the ELLIS Pre-NeurIPS workshop 🎤</span><br><br>
+        <span style="white-space: nowrap;"><strong>October 2025</strong>: Our paper on Riemannian Gradient Averaging accepted at OPT workshop (NeurIPS 2025) 🎉</span><br><br>
+        <span style="white-space: nowrap;"><strong>October 2025</strong>: Started internship at NEC Labs, Europe 💼</span><br><br>
+        <span style="white-space: nowrap;"><strong>July 2025</strong>: Attended ACL 2025 in Vienna 🇦🇹</span><br><br>
+        <span style="white-space: nowrap;"><strong>July 2025</strong>: Our benchmark paper “CaMMT” accepted at Findings of EMNLP 2025 🎉</span><br><br>
+        <span style="white-space: nowrap;"><strong>May 2025</strong>: Our paper “LazyReview” accepted at ACL 2025 🎉</span><br>
     design:
       css_id: news
       columns: '1'
