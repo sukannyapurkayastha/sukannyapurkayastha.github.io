@@ -19,7 +19,7 @@ sections:
       #  text: Download CV
       #  url: uploads/resume.pdf
       headings:
-        about: 'About'
+        about: ''
         education: 'Education'
         interests: 'Interests'
     design:
@@ -55,73 +55,68 @@ sections:
         <span style="white-space: nowrap;">
           <a href="https://arxiv.org/abs/2602.10118">Reviewing the reviewer: Elevating review quality through LLM-guided feedback</a>
         </span><br>
-        <b>Sukannya Purkayastha</b>, Qile Wan, Anne Lauscher, Lizhen Qu, Iryna Gurevych<br>
-        <em>ArXiv preprint 2026</em><br><br>
+        Sukannya Purkayastha, Qile Wan, Anne Lauscher, Lizhen Qu, Iryna Gurevych<br>
+        <em>ArXiv preprint, 2026</em><br><br>
 
         <span style="white-space: nowrap;">
           <a href="https://arxiv.org/pdf/2603.09434v1">Common Sense vs Morality: The curious case of Narrative Focus bias on LLMs.</a>
         </span><br>
-        Saugata Purkayastha, Pranav Kushare, Pragya Pal, <b>Sukannya Purkayastha</b><br>
-        <em>15th biennial Language Resources and Evaluation Conference (LREC), 2026</em><br><br>
+        Saugata Purkayastha, Pranav Kushare, Pragya Pal, Sukannya Purkayastha<br>
+        <em>LREC, 2026</em><br><br>
 
         <span style="white-space: nowrap;">
           <a href="https://arxiv.org/abs/2508.05283">Decision-Making with Deliberation: Meta-reviewing as a Document-grounded Dialogue</a>
         </span><br>
-        <b>Sukannya Purkayastha</b>, Nils Dycke, Anne Lauscher, Iryna Gurevych<br>
-        <em>19th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026</em><br><br>
+        Sukannya Purkayastha, Nils Dycke, Anne Lauscher, Iryna Gurevych<br>
+        <em>EACL, 2026</em><br><br>
 
         <span style="white-space: nowrap;">
           <a href="https://aclanthology.org/2025.acl-long.165/">LazyReview: A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews</a>
         </span><br>
-        <b>Sukannya Purkayastha</b>, Zhuang Li, Anne Lauscher, Lizhen Qu, Iryna Gurevych<br>
-        <em>The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025</em>
+        Sukannya Purkayastha, Zhuang Li, Anne Lauscher, Lizhen Qu, Iryna Gurevych<br>
+        <em>ACL, 2025</em><br><br>
 
-        <span style="white-space: nowrap;"><a href="https://aclanthology.org/2025.findings-emnlp.1220/">CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation</a></span><br>Emilio Villa-Cueva, Sholpan Bolatzhanova, Diana Turmakhan, …, <b>Sukannya Purkayastha</b>, …, Thamar Solorio<br><em>Findings of the Association for Computational Linguistics: EMNLP 2025</em>
+        <span style="white-space: nowrap;">
+          <a href="https://aclanthology.org/2025.findings-emnlp.1220/">CaMMT: Benchmarking Culturally Aware Multimodal Machine Translation</a>
+        </span><br>
+        Emilio Villa-Cueva, Sholpan Bolatzhanova, Diana Turmakhan, …, Sukannya Purkayastha, …, Thamar Solorio<br>
+        <em>Findings EMNLP, 2025</em><br><br>
 
         <span style="white-space: nowrap;">
           <a href="https://opt-ml.org/papers/2025/paper7.pdf">On Riemannian Gradient Descent using Gradient Averaging (RGrad-Avg)</a>
         </span><br>
-        Saugata Purkayastha, <b>Sukannya Purkayastha</b><br>
-        <em>17th Annual Workshop on Optimization for Machine Learning (OPT) at NeurIPS 2025</em><br><br>
+        Saugata Purkayastha, Sukannya Purkayastha<br>
+        <em>OPT @ NeurIPS, 2025</em><br><br>
 
         <span style="white-space: nowrap;">
           <a href="https://arxiv.org/abs/2511.05921">IDALC: A Semi-Supervised Framework for Intent Detection and Active Learning-based Correction</a>
         </span><br>
-        Ankan Mullick, <b>Sukannya Purkayastha</b>, Saransh Sharma, Pawan Goyal, Niloy Ganguly<br>
-        <em>IEEE Transactions on Artificial Intelligence 2025</em><br><br>
+        Ankan Mullick, Sukannya Purkayastha, Saransh Sharma, Pawan Goyal, Niloy Ganguly<br>
+        <em>IEEE Transactions on AI, 2025</em><br><br>
 
         <span style="white-space: nowrap;">
           <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/1568882ba1a50316e87852542523739c-Abstract-Datasets_and_Benchmarks_Track.html">CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark</a>
         </span><br>
-        David Romero, Chenyang Lyu, Haryo Akbarianto Wibowo, Teresa Lynn, Injy Hamed, Aditya Nanda Kishore, Aishik Mandal, Alina Dragonetti,… , <b>Sukannya Purkayastha</b>, …, Thamar Solorio<br>
-        <em>38th Conference on Neural Information Processing Systems (NeurIPS), Datasets & Benchmarks Track, 2024</em>
-
-        <span style="white-space: nowrap;"><a href="https://aclanthology.org/2023.emnlp-main.894/">Exploring Jiu-Jitsu Argumentation for Writing Peer Review Rebuttals</a>
-        </span><br>
-        <b>Sukannya Purkayastha</b>, Anne Lauscher, Iryna Gurevych<br>
-        <em>Empirical Methods in Natural Language Processing (EMNLP), 2023</em>
-
-        <span style="white-space: nowrap;">Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning</span><br>Clifton Poth, Hannah Sterz, Indraneil Paul, <b>Sukannya Purkayastha</b>, Leon Engländer, Timo Imhof, Ivan Vulić, Sebastian Ruder, Iryna Gurevych, Jonas Pfeiffer<br><em>Empirical Methods in Natural Language Processing (EMNLP): System Demonstrations, 2023</em>
-
-        <span style="white-space: nowrap;">Romanization-based Large-scale Adaptation of Multilingual Language Models</span><br><b>Sukannya Purkayastha</b>, Sebastian Ruder, Jonas Pfeiffer, Iryna Gurevych, Ivan Vulić<br><em>Findings of the Association for Computational Linguistics: EMNLP, 2023</em>
-
-        <span style="white-space: nowrap;"><a href="https://aclanthology.org/2022.findings-naacl.282/">A Framework to Generate High-Quality Datapoints for Multiple Novel Intent Detection</a></span><br>Ankan Mullick*, <b>Sukannya Purkayastha</b>*, Pawan Goyal, Niloy Ganguly<br><em>Findings of the Association for Computational Linguistics: NAACL, 2022</em>
+        David Romero, Chenyang Lyu, Haryo Akbarianto Wibowo, Teresa Lynn, Injy Hamed, Aditya Nanda Kishore, Aishik Mandal, Alina Dragonetti, …, Sukannya Purkayastha, …, Thamar Solorio<br>
+        <em>NeurIPS (Datasets & Benchmarks), 2024</em><br><br>
 
         <span style="white-space: nowrap;">
-          <a href="https://dblp.org/rec/conf/ijcnn/PurkayasthaDGKB22.html">A Deep Neural Approach to KGQA via SPARQL Silhouette Generation</a>
+          <a href="https://aclanthology.org/2023.emnlp-main.894/">Exploring Jiu-Jitsu Argumentation for Writing Peer Review Rebuttals</a>
         </span><br>
-        <b>Sukannya Purkayastha</b>, Saswati Dana, Dinesh Garg, Dinesh Khandelwal, G. P. Shrivatsa Bhargav<br>
-        <em>International Joint Conference on Neural Networks (IJCNN), 2022</em><br><br>
+        Sukannya Purkayastha, Anne Lauscher, Iryna Gurevych<br>
+        <em>EMNLP, 2023</em><br><br>
 
         <span style="white-space: nowrap;">
-          <a href="https://arxiv.org/abs/2012.02387">A Variant of Gradient Descent Algorithm Based on Gradient Averaging</a>
+          <a href="https://aclanthology.org/W19-1912/">Medical Entity Linking using Triplet Network</a>
         </span><br>
-        Saugata Purkayastha, <b>Sukannya Purkayastha</b><br>
-        <em>12th Annual Workshop on Optimization for Machine Learning (OPT) at NeurIPS 2020</em>
+        Ishani Mondal, Sukannya Purkayastha, Sudeshna Sarkar, Pawan Goyal, Jitesh Pillai, Amitava Bhattacharyya, Mahanandeeshwar Gattu<br>
+        <em>Clinical NLP Workshop, 2019</em><br><br>
 
-        <span style="white-space: nowrap;"><a href="https://aclanthology.org/W19-1912/">Medical Entity Linking using Triplet Network</a></span><br>Ishani Mondal, <b>Sukannya Purkayastha</b>, Sudeshna Sarkar, Pawan Goyal, Jitesh Pillai, Amitava Bhattacharyya, Mahanandeeshwar Gattu<br><em>2nd Clinical Natural Language Processing Workshop, 2019</em>
-
-        <span style="white-space: nowrap;"><a href="https://ieeexplore.ieee.org/abstract/document/8941958/">Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder</a></span><br><b>Sukannya Purkayastha</b>, Ishani Mondal, Sudeshna Sarkar, Pawan Goyal, Jitesh K. Pillai<br><em> IEEE 19th International Conference on Bioinformatics and Bioengineering (BIBE), 2019</em>
+        <span style="white-space: nowrap;">
+          <a href="https://ieeexplore.ieee.org/abstract/document/8941958/">Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder</a>
+        </span><br>
+        Sukannya Purkayastha, Ishani Mondal, Sudeshna Sarkar, Pawan Goyal, Jitesh K. Pillai<br>
+        <em>BIBE, 2019</em><br>
         <hr style="border: none; border-top: 1px solid #ddd; margin: 2rem 0;">
     design:
       css_id: publications
