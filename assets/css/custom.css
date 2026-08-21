@@ -43,13 +43,13 @@
 }
 
 /* Tighten spacing specifically for rendered resume section and following markdown sections */
-#section-resume-biography-3 {
+#bio {
     margin-bottom: 0 !important;
     padding-bottom: 0 !important;
 }
 
-#section-resume-biography-3 + section,
-#section-resume-biography-3 + div {
+#bio + section,
+#bio + div {
     margin-top: 0.25rem !important; /* small gap to keep separation but reduce large whitespace */
     padding-top: 0 !important;
 }
@@ -139,7 +139,7 @@ h6 { font-size: 0.875rem; }
     height: 200px !important;  /* desktop height */
 }
 
-#section-resume-biography-3 .avatar {
+#bio .avatar {
     width: 100% !important;
     height: 100% !important;
     object-fit: cover;

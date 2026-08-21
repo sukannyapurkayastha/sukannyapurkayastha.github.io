@@ -8,10 +8,10 @@ main:
     url: /#bio
     weight: 10
   - name: News
-    url: /#news
+    url: /news/
     weight: 11
-  - name: Papers
-    url: /#publications
+  - name: Publications
+    url: /publications/
     weight: 20
 #  - name: Projects
 #    url: projects/
