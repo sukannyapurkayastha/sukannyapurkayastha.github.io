@@ -248,7 +248,8 @@ body::before {
     color: var(--ink) !important;
 }
 
-.blox-markdown:has(#news) {
+.blox-markdown:has(#news),
+.blox-markdown#news {
     background: var(--teal) !important;
     border: 2px solid var(--line);
     border-radius: 1rem;
@@ -258,20 +259,24 @@ body::before {
 }
 
 .blox-markdown:has(#news) h2,
-.blox-markdown:has(#news) .text-3xl {
+.blox-markdown:has(#news) .text-3xl,
+.blox-markdown#news h2,
+.blox-markdown#news .text-3xl {
     color: var(--ink) !important;
     font-size: clamp(1.7rem, 4vw, 2.8rem) !important;
     letter-spacing: -0.04em;
     text-transform: uppercase;
 }
 
-.blox-markdown:has(#news) .prose {
+.blox-markdown:has(#news) .prose,
+.blox-markdown#news .prose {
     color: var(--ink) !important;
     font-family: var(--mono) !important;
     font-size: 0.82rem !important;
 }
 
-.blox-markdown:has(#news) .prose span {
+.blox-markdown:has(#news) .prose span,
+.blox-markdown#news .prose span {
     display: inline-block;
     margin: 0.22rem 0;
     max-width: 100%;
@@ -343,14 +348,16 @@ footer {
         transform: none;
     }
 
-    .blox-markdown:has(#news) {
+    .blox-markdown:has(#news),
+    .blox-markdown#news {
         border-radius: 0.75rem;
         box-shadow: 4px 4px 0 var(--ink);
         margin-left: 0;
         margin-right: 0;
     }
 
-    .blox-markdown:has(#news) .prose span {
+    .blox-markdown:has(#news) .prose span,
+    .blox-markdown#news .prose span {
         white-space: normal !important;
     }
 

@@ -23,6 +23,7 @@ sections:
         <span style="white-space: nowrap;"><strong>July 2025</strong>: Our benchmark paper “CaMMT” accepted at Findings of EMNLP 2025 🎉</span><br>
         <span style="white-space: nowrap;"><strong>May 2025</strong>: Our paper “LazyReview” accepted at ACL 2025 🎉</span><br>
     design:
+      css_id: news
       columns: '1'
       spacing:
         padding: ['2rem', '0', '1rem', '0']
