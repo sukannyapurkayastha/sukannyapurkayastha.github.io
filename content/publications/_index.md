@@ -15,7 +15,7 @@ sections:
           <a href="https://arxiv.org/abs/2602.10118">Reviewing the reviewer: Elevating review quality through LLM-guided feedback</a>
         </span><br>
         Sukannya Purkayastha, Qile Wan, Anne Lauscher, Lizhen Qu, Iryna Gurevych<br>
-        <em>ArXiv preprint, 2026</em><br><br>
+        <em>EMNLP Main, 2026</em><br><br>
 
         <span style="white-space: nowrap;">
           <a href="https://arxiv.org/pdf/2603.09434v1">Common Sense vs Morality: The curious case of Narrative Focus bias on LLMs.</a>
@@ -79,17 +79,5 @@ sections:
         <hr style="border: none; border-top: 1px solid #ddd; margin: 2rem 0;">
     design:
       columns: '1'
-
-  - block: markdown
-    content:
-      title: ''
-      text: |
-        ## Publication Categories
-
-        **Conference Papers** — Peer-reviewed work presented at major conferences
-        
-        **Journal Articles** — Research published in academic journals
-        
-        **Preprints** — Working papers and early-stage research
 
 ---
