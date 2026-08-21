@@ -274,6 +274,9 @@ body::before {
 .blox-markdown:has(#news) .prose span {
     display: inline-block;
     margin: 0.22rem 0;
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    white-space: normal !important;
 }
 
 /* Reduce spacing between avatar, bio text and icons */
