@@ -69,6 +69,63 @@ body::before {
     color: var(--ink) !important;
 }
 
+/* Give standalone content pages the same visual language as the homepage. */
+.page-body > section.blox-markdown,
+.page-body > section.blox-collection {
+    background: var(--paper) !important;
+    border: 2px solid var(--line);
+    border-radius: 1rem;
+    box-shadow: 8px 8px 0 var(--coral);
+    margin: 2.5rem auto !important;
+    max-width: 58rem;
+    padding: 2rem 1.5rem !important;
+}
+
+.page-body > section.blox-markdown .text-3xl,
+.page-body > section.blox-collection .text-3xl {
+    color: var(--ink) !important;
+    font-size: clamp(1.8rem, 4vw, 3rem) !important;
+    letter-spacing: -0.04em;
+    text-transform: uppercase;
+}
+
+.page-body > section.blox-markdown .prose,
+.page-body > section.blox-collection .prose {
+    color: var(--ink) !important;
+    font-size: 0.98rem;
+}
+
+.page-body > section.blox-markdown .prose a,
+.page-body > section.blox-collection .prose a {
+    color: #b83d2f !important;
+    font-weight: 600;
+    text-decoration-thickness: 2px;
+}
+
+.page-body > section.blox-markdown .prose a:hover,
+.page-body > section.blox-collection .prose a:hover {
+    background: var(--lime);
+    color: var(--ink) !important;
+}
+
+#bio h1 ruby {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    line-height: 1;
+}
+
+#bio h1 ruby rt {
+    display: block;
+    font-family: var(--mono) !important;
+    font-size: 0.18em !important;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    line-height: 1.4;
+    margin-top: 0.65rem;
+    white-space: nowrap;
+}
+
 /* Collapse extra top/bottom padding for the bio section */
 #bio,
 #bio .resume-biography {
@@ -126,7 +183,7 @@ body::before {
 
 #bio + section,
 #bio + div {
-    margin-top: 0.25rem !important; /* small gap to keep separation but reduce large whitespace */
+    margin-top: 2rem !important;
     padding-top: 0 !important;
 }
 
@@ -273,6 +330,11 @@ footer {
         margin-bottom: 1rem !important;
     }
 
+    #bio + section,
+    #bio + div {
+        margin-top: 1rem !important;
+    }
+
     #bio .md\:col-span-8 {
         margin-top: 1rem;
         transform: none;
@@ -287,5 +349,17 @@ footer {
 
     .blox-markdown:has(#news) .prose span {
         white-space: normal !important;
+    }
+
+    .page-body > section.blox-markdown,
+    .page-body > section.blox-collection {
+        border-radius: 0.75rem;
+        box-shadow: 4px 4px 0 var(--coral);
+        margin: 1.25rem 0.25rem !important;
+        padding: 1.25rem 0.85rem !important;
+    }
+
+    #bio h1 ruby rt {
+        font-size: 0.22em !important;
     }
 }
