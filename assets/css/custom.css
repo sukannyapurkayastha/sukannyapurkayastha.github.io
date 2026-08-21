@@ -27,7 +27,7 @@
 /* Reduce spacing inside paragraphs */
 #bio p {
     margin-top: 0 !important;
-    margin-bottom: 1.5rem !important;
+    margin-bottom: 0.5rem !important;
 }
 
 /* Reduce spacing of the HR divider */
@@ -82,7 +82,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 2rem; /* adjust to push avatar down */
+    padding-top: 0;
 }
 
 /* Reduce spacing between avatar, bio text and icons */
