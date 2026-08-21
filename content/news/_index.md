@@ -11,6 +11,7 @@ sections:
     content:
       title: Recent News
       text: |
+        <a id="news"></a>
         <span style="white-space: nowrap;"><strong>August 2026</strong>: Our paper "Reviewing the Reviewer" accepted at EMNLP 2026! 🚀</span><br>
         <span style="white-space: nowrap;"><strong>May 2026</strong>: Started as Research Associate at University of Würzburg, Germany! 🚀</span><br>
         <span style="white-space: nowrap;"><strong>February 2026</strong>: Our paper “Common Sense vs Morality” accepted at LREC 2026! 🚀</span><br>
