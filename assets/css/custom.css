@@ -250,12 +250,13 @@ body::before {
 
 .blox-markdown:has(#news),
 .blox-markdown#news {
-    background: var(--teal) !important;
+    background: var(--paper) !important;
     border: 2px solid var(--line);
     border-radius: 1rem;
-    box-shadow: 8px 8px 0 var(--ink);
-    margin: 0 0.5rem 2rem;
-    padding: 2rem 1.25rem !important;
+    box-shadow: 8px 8px 0 var(--coral);
+    margin: 0 auto 1.5rem;
+    max-width: 58rem;
+    padding: 1.25rem 1rem !important;
 }
 
 .blox-markdown:has(#news) h2,
@@ -263,8 +264,9 @@ body::before {
 .blox-markdown#news h2,
 .blox-markdown#news .text-3xl {
     color: var(--ink) !important;
-    font-size: clamp(1.7rem, 4vw, 2.8rem) !important;
+    font-size: clamp(1.5rem, 2.4vw, 2.2rem) !important;
     letter-spacing: -0.04em;
+    margin-bottom: 0.75rem;
     text-transform: uppercase;
 }
 
@@ -272,13 +274,14 @@ body::before {
 .blox-markdown#news .prose {
     color: var(--ink) !important;
     font-family: var(--mono) !important;
-    font-size: 0.82rem !important;
+    font-size: 0.8rem !important;
+    line-height: 1.6;
 }
 
 .blox-markdown:has(#news) .prose span,
 .blox-markdown#news .prose span {
     display: inline-block;
-    margin: 0.22rem 0;
+    margin: 0.18rem 0;
     max-width: 100%;
     overflow-wrap: anywhere;
     white-space: normal !important;

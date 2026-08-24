@@ -9,7 +9,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: All Publications
+      title: Selected Publications
       text: |
         <span style="white-space: nowrap;">
           <a href="https://arxiv.org/abs/2602.10118">Reviewing the reviewer: Elevating review quality through LLM-guided feedback</a>
