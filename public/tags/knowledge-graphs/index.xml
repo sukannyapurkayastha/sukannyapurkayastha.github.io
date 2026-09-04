@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowledge Graphs | Sukannya Purkayastha</title>
+    <link>http://localhost:1313/tags/knowledge-graphs/</link>
+      <atom:link href="http://localhost:1313/tags/knowledge-graphs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Knowledge Graphs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_b5a35a78ddd370ec.png</url>
+      <title>Knowledge Graphs</title>
+      <link>http://localhost:1313/tags/knowledge-graphs/</link>
+    </image>
+    
+  </channel>
+</rss>

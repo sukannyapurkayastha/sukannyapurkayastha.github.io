@@ -20,9 +20,9 @@ abstract: |
   We introduce Adapters, an open-source library that unifies parameter-efficient and modular transfer learning in large language models. By integrating 10 diverse adapter methods into a unified interface, Adapters offers ease of use and flexible configuration. Our library allows researchers and practitioners to leverage adapter modularity through composition blocks, enabling the design of complex adapter setups. We demonstrate the library's efficacy by evaluating its performance against full fine-tuning on various NLP tasks. Adapters provides a powerful tool for addressing the challenges of conventional fine-tuning paradigms and promoting more efficient and modular transfer learning. The library is available via https://adapterhub.ml/adapters.
 summary: "Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning — system demo at EMNLP 2023."
 tags:
-  - Transfer Learning
-  - Adapters
-  - NLP
+  - Parameter-Efficient Learning
+  - Modular NLP
+  - Tools
 featured: true
 links:
   - type: proceedings

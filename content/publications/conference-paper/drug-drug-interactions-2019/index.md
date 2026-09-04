@@ -15,8 +15,8 @@ abstract: |
   We propose a method for predicting drug-drug interactions using drug embeddings combined with a graph auto-encoder. Our approach learns structural representations and demonstrates improved prediction performance on benchmark datasets.
 summary: "Drug-Drug Interactions Prediction Based on Drug Embedding and Graph Auto-Encoder — BIBE 2019."
 tags:
-  - Drug-Drug Interaction
-  - Knowledge Graph
+  - Biomedical NLP
+  - Knowledge Graphs
   - Representation Learning
 featured: true
 links:

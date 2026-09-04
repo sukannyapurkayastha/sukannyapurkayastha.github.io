@@ -25,9 +25,9 @@ abstract: |
   We introduce CVQA, a culturally-diverse multilingual visual question answering benchmark. The dataset and benchmark are designed to evaluate VQA systems across languages and cultural contexts, highlighting robustness and fairness considerations. (Summary from citation.)
 summary: "CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark — NeurIPS 2024."
 tags:
-  - VQA
-  - Multilingual
-  - Dataset
+  - Multimodal NLP
+  - Multilingual NLP
+  - Benchmark
 featured: false
 links:
   - type: dataset

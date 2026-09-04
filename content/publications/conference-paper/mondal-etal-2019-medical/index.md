@@ -18,9 +18,9 @@ abstract: |
   Entity linking (or Normalization) is an essential task in text mining that maps the entity mentions in the medical text to standard entities in a given Knowledge Base (KB). This task is of great importance in the medical domain. It can also be used for merging different medical and clinical ontologies. In this paper, we center around the problem of disease linking or normalization. This task is executed in two phases: candidate generation and candidate scoring. In this paper, we present an approach to rank the candidate Knowledge Base entries based on their similarity with disease mention. We make use of the Triplet Network for candidate ranking. While the existing methods have used carefully generated sieves and external resources for candidate generation, we introduce a robust and portable candidate generation scheme that does not make use of the hand-crafted rules. Experimental results on the standard benchmark NCBI disease dataset demonstrate that our system outperforms the prior methods by a significant margin.
 summary: "Medical Entity Linking using Triplet Network — Clinical NLP Workshop 2019."
 tags:
-  - Clinical NLP
+  - Biomedical NLP
+  - Knowledge Graphs
   - Entity Linking
-  - Triplet Network
 featured: true
 links:
   - type: proceedings

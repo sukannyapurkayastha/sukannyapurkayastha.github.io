@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Inproceedings | Sukannya Purkayastha</title><link>https://sukannyapurkayastha.github.io/publication_types/inproceedings/</link><atom:link href="https://sukannyapurkayastha.github.io/publication_types/inproceedings/index.xml" rel="self" type="application/rss+xml"/><description>Inproceedings</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://sukannyapurkayastha.github.io/media/icon_hu_b5a35a78ddd370ec.png</url><title>Inproceedings</title><link>https://sukannyapurkayastha.github.io/publication_types/inproceedings/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inproceedings | Sukannya Purkayastha</title>
+    <link>http://localhost:1313/publication_types/inproceedings/</link>
+      <atom:link href="http://localhost:1313/publication_types/inproceedings/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inproceedings</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_b5a35a78ddd370ec.png</url>
+      <title>Inproceedings</title>
+      <link>http://localhost:1313/publication_types/inproceedings/</link>
+    </image>
+    
+  </channel>
+</rss>
